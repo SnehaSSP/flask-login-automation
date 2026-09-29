@@ -1,4 +1,4 @@
-# Flask Login App — Automation Test Practice
+# Flask Login App — Automation Test Practice for excellency
 
 A simple Flask login application with a layered pytest test suite,
 designed to demonstrate a realistic CI/CD testing workflow.
