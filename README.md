@@ -10,3 +10,7 @@ designed to demonstrate a realistic CI/CD testing workflow.
 - GitHub Actions (CI)
 
 ## 📁 Structure
+
+## Contributors
+- snehas
+
